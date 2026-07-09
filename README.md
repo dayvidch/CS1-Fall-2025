@@ -1,7 +1,7 @@
 # Computer Science 1 - Las Positas Fall 2025
 
-Started: August 18, 2025
-Finished: December 19, 2025
+Started: August 18, 2025  
+Finished: December 19, 2025  
 Final Grade: A
 
 ## CS 1: Computing Fundamentals I
